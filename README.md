@@ -6,3 +6,13 @@ Variadic fuctions in C are an important tool to learn as it creates flexibility 
 Syntax: int fuction_name(data_type variable_name, ...);
 Header file: stdarg.h
 Marcros/subfuctions: va_list (including: va_start, va_copy, va_end).
+
+You may want to practice coding this project yourself in order to learn more about awesome variadic fuction in C.
+
+In order to run this project:
+1. Copy the link on right top corner and git clone in your folder
+2. Then simply type 'make' in the copied project directory and the program will be executed.
+
+
+
+Visit 42.fr for more projects like this.
